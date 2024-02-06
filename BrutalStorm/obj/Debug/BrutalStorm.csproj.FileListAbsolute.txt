@@ -1,0 +1,10 @@
+Z:\BrutalStorm\Brutalstorm\BrutalStorm\bin\Debug\BrutalStorm.exe.config
+Z:\BrutalStorm\Brutalstorm\BrutalStorm\bin\Debug\BrutalStorm.exe
+Z:\BrutalStorm\Brutalstorm\BrutalStorm\bin\Debug\BrutalStorm.pdb
+Z:\BrutalStorm\Brutalstorm\BrutalStorm\obj\Debug\BrutalStorm.csproj.AssemblyReference.cache
+Z:\BrutalStorm\Brutalstorm\BrutalStorm\obj\Debug\BrutalStorm.Form1.resources
+Z:\BrutalStorm\Brutalstorm\BrutalStorm\obj\Debug\BrutalStorm.Properties.Resources.resources
+Z:\BrutalStorm\Brutalstorm\BrutalStorm\obj\Debug\BrutalStorm.csproj.GenerateResource.cache
+Z:\BrutalStorm\Brutalstorm\BrutalStorm\obj\Debug\BrutalStorm.csproj.CoreCompileInputs.cache
+Z:\BrutalStorm\Brutalstorm\BrutalStorm\obj\Debug\BrutalStorm.exe
+Z:\BrutalStorm\Brutalstorm\BrutalStorm\obj\Debug\BrutalStorm.pdb
